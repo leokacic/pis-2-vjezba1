@@ -2,4 +2,5 @@ Moj prvi projekt u gitu
 
 dodana nova linija
 
-ahaaaa nova linija koda
+ahaaaa nova (u srid linije tekst) linija koda
+
